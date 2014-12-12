@@ -1,3 +1,0 @@
-./load_realtors.sh 'realestatemails_development' /home/mmaiza/Dev/realestatemails/emails/Realtor_AL.csv
-./load_realtors.sh 'realestatemails_development' /home/mmaiza/Dev/realestatemails/emails/Realtor_CO.csv
-./load_realtors.sh 'realestatemails_development' /home/mmaiza/Dev/realestatemails/emails/Realtor_AL.csv
